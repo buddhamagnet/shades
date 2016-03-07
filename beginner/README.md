@@ -1,10 +1,10 @@
 ###BEGINNER
 
-* brace woes
-* unused variables
-* unused imports
-* short variable declarations
-* short variable redeclaration
+* [brace woes](https://github.com/buddhamagnet/shades/tree/master/beginner/braces)
+* [unused variables](https://github.com/buddhamagnet/shades/tree/master/beginner/unused_vars)
+* [unused imports](https://github.com/buddhamagnet/shades/tree/master/beginner/unused_imports)
+* [short variable declarations](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec)
+* [short variable redeclaration](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_redeclare)
 * short variable declaration and fields
 * accidental shadowing
 * nil without explicit type
@@ -28,7 +28,7 @@
 * switch fallthrough
 * increments and decrements
 * bitwise NOT
-* operator preference 
+* operator preference
 * unexported fields are not encoded
 * app exits with active goroutines
 * sending to an unbuffered channel
