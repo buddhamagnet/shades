@@ -5,13 +5,13 @@ a working example, and note where Go tooling or a robust development setup would
 
 ###[BEGINNER](https://github.com/buddhamagnet/shades/tree/master/beginner)
 
-* brace woes
-* unused variables
-* unused imports
-* short variable declarations
-* short variable redeclaration
-* short variable declaration and fields
-* accidental shadowing
+* [brace woes](https://github.com/buddhamagnet/shades/tree/master/beginner/braces)
+* [unused variables](https://github.com/buddhamagnet/shades/tree/master/beginner/unused_vars)
+* [unused imports](https://github.com/buddhamagnet/shades/tree/master/beginner/unused_imports)
+* [short variable declarations](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec)
+* [short variable redeclaration](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_redeclare)
+* [short variable declaration and fields](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_fields)
+* [accidental shadowing](https://github.com/buddhamagnet/shades/tree/master/beginner/shadow)
 * nil without explicit type
 * nil slices and maps
 * map capacity
@@ -33,7 +33,7 @@ a working example, and note where Go tooling or a robust development setup would
 * switch fallthrough
 * increments and decrements
 * bitwise NOT
-* operator preference 
+* operator preference
 * unexported fields are not encoded
 * app exits with active goroutines
 * sending to an unbuffered channel

@@ -5,8 +5,8 @@
 * [unused imports](https://github.com/buddhamagnet/shades/tree/master/beginner/unused_imports)
 * [short variable declarations](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec)
 * [short variable redeclaration](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_redeclare)
-* short variable declaration and fields
-* accidental shadowing
+* [short variable declaration and fields](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_fields)
+* [accidental shadowing](https://github.com/buddhamagnet/shades/tree/master/beginner/shadow)
 * nil without explicit type
 * nil slices and maps
 * map capacity
