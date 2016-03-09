@@ -10,7 +10,7 @@
 * [nil without explicit type](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_type)
 * [nil slices and maps](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_collections)
 * [map capacity](https://github.com/buddhamagnet/shades/tree/master/beginner/map_cap)
-* nil strings
+* [nil strings](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_strings)
 * array function arguments
 * unexpected values in range clauses
 * slices and arrays are one-dimensional
