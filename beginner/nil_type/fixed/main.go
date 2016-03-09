@@ -4,7 +4,9 @@ import "fmt"
 
 func main() {
 	// fixed - interfaces, functions, pointers, maps and slices can
-	// all be assigned nil.
+	// all be assigned nil. This is for explicit demonstration only,
+	// simply declaring them will initialize them to their default
+	// value, which is nil.
 	var i interface{} = nil
 	var f func() = nil
 	var p *int = nil
