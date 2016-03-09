@@ -8,7 +8,7 @@
 * [short variable declaration and fields](https://github.com/buddhamagnet/shades/tree/master/beginner/short_dec_fields)
 * [accidental shadowing](https://github.com/buddhamagnet/shades/tree/master/beginner/shadow)
 * [nil without explicit type](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_type)
-* nil slices and maps
+* [nil slices and maps](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_collections)
 * map capacity
 * nil strings
 * array function arguments
