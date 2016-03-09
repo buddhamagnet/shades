@@ -14,7 +14,7 @@ a working example, and note where Go tooling or a robust development setup would
 * [accidental shadowing](https://github.com/buddhamagnet/shades/tree/master/beginner/shadow)
 * [nil without explicit type](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_type)
 * [nil slices and maps](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_collections)
-* map capacity
+* [map capacity](https://github.com/buddhamagnet/shades/tree/master/beginner/map_cap)
 * nil strings
 * array function arguments
 * unexpected values in range clauses
