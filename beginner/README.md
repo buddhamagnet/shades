@@ -11,7 +11,7 @@
 * [nil slices and maps](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_collections)
 * [map capacity](https://github.com/buddhamagnet/shades/tree/master/beginner/map_cap)
 * [nil strings](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_strings)
-* array function arguments
+* [array function arguments](https://github.com/buddhamagnet/shades/tree/master/beginner/array_values)
 * unexpected values in range clauses
 * slices and arrays are one-dimensional
 * non-existent map keys
