@@ -17,7 +17,7 @@ a working example, and note where Go tooling or a robust development setup would
 * [map capacity](https://github.com/buddhamagnet/shades/tree/master/beginner/map_cap)
 * [nil strings](https://github.com/buddhamagnet/shades/tree/master/beginner/nil_strings)
 * [array function arguments](https://github.com/buddhamagnet/shades/tree/master/beginner/array_values)
-* unexpected values in range clauses
+* [unexpected values in range clauses](https://github.com/buddhamagnet/shades/tree/master/beginner/range_values)
 * slices and arrays are one-dimensional
 * non-existent map keys
 * immutable strings
